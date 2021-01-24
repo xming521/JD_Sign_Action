@@ -2,7 +2,8 @@
 
 ## 介绍
 
-> 使用NobyDa “京东多合一签到脚本”为基础，移植到github actions自动化执行。
+666666
+鼎飞丹砂
 
 
 ## 触发方式
@@ -42,13 +43,13 @@
 * 登录[领京豆](https://bean.m.jd.com/)；
 * 点击`JDCookie`即可拷贝京东cookie；
 
-## 获取Server酱SCKEY
+## 获取Server酱SCKEY  
 
 * github 授权登录[Server酱](http://sc.ftqq.com/3.version)官网；
 * 菜单栏`微信推送`扫描绑定微信；
 * 菜单栏`发送消息`拷贝SCKEY；
 
-
+  
 
 ## 效果截图
 
@@ -57,7 +58,7 @@
 ![WechatIMG4](./images/WechatIMG4.jpeg)
 
 
-## 参考项目
-* [NobyDa/Script/JD-DailyBonus](https://github.com/NobyDa/Script/blob/master/JD-DailyBonus/JD_DailyBonus.js)
-* [ruicky/jd-sign-bot](https://github.com/ruicky/jd_sign_bot)
-* [jerrykuku/luci-app-jd-dailybonus](https://github.com/jerrykuku/luci-app-jd-dailybonus)
+## 参考项目666
+* [NobyDa/ript/JD-DailyBonus](https://github.com/NobyDa/Script/blob/master/JD-DailyBonus/JD_DailyBonus.js)
+* [ruicky/jd-sig-bot](https://github.com/ruicky/jd_sign_bot)
+* [jerrykuku/lucapp-jd-dailybonus](https://github.com/jerrykuku/luci-app-jd-dailybonus)
